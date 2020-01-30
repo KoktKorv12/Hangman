@@ -1,2 +1,2 @@
-"# Hangman" 
-"# Hangman" 
+30/1 Idag gjorde jag så att man kan skriva in spelarläge och så at man kan välja vilket ord som kompisen ska gissa.
+Även så att texten är skymd med "-", kommer fortsätta på programmet efter skoltid för att ev bli klart!
